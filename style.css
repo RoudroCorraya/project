@@ -9,6 +9,10 @@ body{
     overflow-x: hidden;
 }
 */
+
+.container{
+    width: 1140px;
+}
 .header{
     height: 60vh;
     width: 100%;
